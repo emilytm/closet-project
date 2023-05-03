@@ -1,0 +1,22 @@
+header .dark-theme {
+    background-color: black;
+    color:aliceblue;
+}
+
+header .light-theme {
+    background-color: aliceblue;
+    color: black;
+}
+
+
+
+
+button .dark-theme {
+    background-color: black;
+    color: aliceblue;
+}
+  
+button .light-theme {
+    background-color: aliceblue;
+    color: black;
+}
