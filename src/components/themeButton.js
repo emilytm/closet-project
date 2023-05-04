@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import ThemeContext from './themeContext'
-import '../styles/Theme.css'
+import '../styles/Button.css'
 
 class ThemeButton extends Component {
 

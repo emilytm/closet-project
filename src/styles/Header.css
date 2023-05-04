@@ -1,0 +1,15 @@
+
+header {
+    font-family: 'Staatliches', 'Helvetica Neue',
+    sans-serif;
+}
+
+header.dark-theme {
+    background-color: black;
+    color:aliceblue;
+}
+
+header.light-theme {
+    background-color: aliceblue;
+    color: black;
+}
